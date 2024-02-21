@@ -23,6 +23,7 @@ public class Animal_4_paws {
             System.out.println(ifNo);
         }else {
             System.out.println(dontKnow);
+            System.out.println();
         }
     }
     public static void infoWool(Wool wool) {wool.infoWool();}
